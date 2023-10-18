@@ -1,2 +1,2 @@
-# Funmi-Idowu-s-Repo
+# Funmi-Idowu's-Repo
 A repository for personal projects
